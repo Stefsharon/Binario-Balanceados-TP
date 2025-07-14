@@ -1,6 +1,7 @@
 🔍 Demostración de Terminación y Correctitud
 
 🧠 Función es_binario_balanceado(n: int) -> bool
+
 📌 Terminación:
 Antes de comenzar el ciclo while, la variable i comienza valiendo 0 (línea 21).
 
